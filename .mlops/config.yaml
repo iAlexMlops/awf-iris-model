@@ -2,8 +2,8 @@ version: 1
 model_name: corp_mmb_zpp_4
 description: Iris model
 
-doc_md: |
-# Модель corp_mmb_zpp_4
+#doc_md: |
+## Модель corp_mmb_zpp_4
 
 python_version: "3.8"
 
