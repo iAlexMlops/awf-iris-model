@@ -1,0 +1,19 @@
+version: 1
+model_name: corp_mmb_zpp_4
+description: Iris model
+
+doc_md: |
+# Модель corp_mmb_zpp_4
+
+python_version: "3.8"
+
+train:
+  start_date: "2020-01-01"
+  spark_application:
+    driver:
+      memory: 1g
+      cores: 1
+    executor:
+      instances: 1
+      memory: 1g
+      cores: 1
