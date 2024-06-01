@@ -1,5 +1,5 @@
 version: 1
-model_name: corp_mmb_zpp_4
+model_name: iris
 description: Iris model
 
 #doc_md: |
